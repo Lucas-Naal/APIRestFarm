@@ -75,3 +75,7 @@ C:\Users\lucas\OneDrive\Escritorio\RestAPI\WebApiFarm\bin\Debug\net7.0\Microsoft
 C:\Users\lucas\OneDrive\Escritorio\RestAPI\WebApiFarm\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\lucas\OneDrive\Escritorio\RestAPI\WebApiFarm\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\Users\lucas\OneDrive\Escritorio\RestAPI\WebApiFarm\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucas\OneDrive\Escritorio\RestAPI\WebApiFarm\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\lucas\OneDrive\Escritorio\RestAPI\WebApiFarm\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\lucas\OneDrive\Escritorio\RestAPI\WebApiFarm\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\lucas\OneDrive\Escritorio\RestAPI\WebApiFarm\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll

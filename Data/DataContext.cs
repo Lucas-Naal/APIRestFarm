@@ -14,6 +14,8 @@ namespace WebApiFarm
        public DbSet <Animal> Animals  {get;set;}
        public DbSet <Stock> Stocks {get; set;}
        public DbSet <Person> Persons {get; set;}
+       public DbSet <User> Users {get; set;}
+       public DbSet <Token> Tokens {get; set;}
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
