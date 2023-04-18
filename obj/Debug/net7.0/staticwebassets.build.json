@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZJFgTlBRxoB95g+TD7BXbaUU10gBDTQof+KutDxFD50=",
+  "Source": "apirest",
+  "BasePath": "_content/apirest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
